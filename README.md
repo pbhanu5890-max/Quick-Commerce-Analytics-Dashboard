@@ -39,19 +39,19 @@ Delivery Performance by Area
 Dashboard Preview
 
 **Home Page**
-![Dashboard Executive Preview](Home page.png0
+![Dashboard Executive Preview](Home_page.png)
 
 **Order Analysis**
-![Dashboard Executive Preview](Order analysis.png)
+![Dashboard Executive Preview](Order_analysis.png)
 
 **Completion Analysis**
-![Dashboard Executive Preview](Completion analysis.png)
+![Dashboard Executive Preview](Completion_analysis.png)
 
 **Customer Analysis**
-![Dashboard Executive Preview](Customer analysis.png)
+![Dashboard Executive Preview](Customer_analysis.png)
 
 **Delivery Analysis**
-![Dashboard Executive Preview](Delivery analysis.png)
+![Dashboard Executive Preview](Delivery_analysis.png)
 
 **Key Insights**
 ![Dashboard Executive Preview](Insights.png)
