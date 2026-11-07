@@ -62,5 +62,6 @@ Overall completion rate exceeded 99%.
 Organic customers generated the highest revenue.
 Snapchat customers showed the highest average spend.
 Average delivery time remained around 29–30 minutes.
+
 Author
 **Prasad Bhanushali**
