@@ -37,8 +37,9 @@ Average Delivery Time
 Delivery Trends by Month
 Delivery Performance by Area
 Dashboard Preview
-Home Page
-home.png
+
+**Home Page**
+Home page.png
 
 **Order Analysis**
 Order analysis.png
