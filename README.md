@@ -39,22 +39,22 @@ Delivery Performance by Area
 Dashboard Preview
 
 **Home Page**
-Home page.png
+![Dashboard Executive Preview](Home page.png0
 
 **Order Analysis**
-Order analysis.png
+![Dashboard Executive Preview](Order analysis.png)
 
 **Completion Analysis**
-Completion analysis.png
+![Dashboard Executive Preview](Completion analysis.png)
 
 **Customer Analysis**
-Customer analysis.png
+![Dashboard Executive Preview](Customer analysis.png)
 
 **Delivery Analysis**
-Delivery analysis.png
+![Dashboard Executive Preview](Delivery analysis.png)
 
 **Key Insights**
-Insights.png
+![Dashboard Executive Preview](Insights.png)
 
 **Key Findings**
 HSR Layout generated the highest order volume.
