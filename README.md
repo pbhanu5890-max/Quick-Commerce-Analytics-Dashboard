@@ -41,19 +41,19 @@ Home Page
 home.png
 
 **Order Analysis**
-orders.png
+Order analysis.png
 
 **Completion Analysis**
-completion.png
+Completion analysis.png
 
 **Customer Analysis**
-customer.png
+Customer analysis.png
 
 **Delivery Analysis**
-delivery.png
+Delivery analysis.png
 
 **Key Insights**
-insights.png
+Insights.png
 
 **Key Findings**
 HSR Layout generated the highest order volume.
