@@ -14,6 +14,7 @@ SUMIFS
 AVERAGEIFS
 Conditional Formatting
 **Business Areas Covered**
+
 **Order Analysis**
 Area-wise order volume
 Slot-wise order trends
